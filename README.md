@@ -1,4 +1,6 @@
-Project based on:
+Project published: https://prismatic-sprite-605ea4.netlify.app/
+
+based on:
 
 - design: https://www.figma.com/file/woqB48WOrmMytlS6MlkSWA/Untitled?node-id=13%3A34&t=GmJklCoMSj0sAaW5-0
   -endpoint: https://swapi.py4e.com/

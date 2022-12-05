@@ -9,4 +9,5 @@ STEPS:
 2. npm install axios:
    two methods to use: -axios.get(url) --axios.post(url)
 3. npm install react-router-dom
-4. There is a folder called noUsedComponents - wanted to make a register form from using an input component but got lost a bit with typescript and handling the state so followed with Form.tsx
+4. npm install react-icons
+5. There is a folder called noUsedComponents - wanted to make a register form from using an input component but got lost a bit with typescript and handling the state so followed with Form.tsx
